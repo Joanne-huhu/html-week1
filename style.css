@@ -78,10 +78,12 @@ body{
     width: 1296px;
     margin: 0 auto;
 }
-
+header{
+    padding-top: 160px;
+}
 .banner-title{
     font-size: 128px;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.12em;    
 }
 .banner-img{
     text-align: center;
